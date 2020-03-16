@@ -130,6 +130,3 @@ function aprovarAluno(aluno){
         }
     } 
 }
-
-
-aprovarAluno(alunosDaEscola[3])
